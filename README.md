@@ -7,6 +7,6 @@
 </div>
 <br />
 <div align="center">
-  <b>💨  Materials & code for blankly functional interviews  🚀</b>
+  <b>💨 Materials & code for blankly functional interviews  🚀</b>
 </div>
 <br />

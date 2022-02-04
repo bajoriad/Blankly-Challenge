@@ -1,6 +1,6 @@
 # BigBoiDatabase API Documentation
 
-To begin, initialize a new python configuration (i.e. anaconda, venv, etc.) and install the proper dependencies.
+To begin, clone this repo. Initialize a new python configuration (i.e. anaconda, venv, etc.) and install the proper dependencies with `pip install -r requirements.txt`.
 
 Then, run ```flask run``` to begin the API.
 
