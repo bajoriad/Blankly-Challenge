@@ -1,5 +1,5 @@
 # Password Store
 
-Created a simple website using the React framework to store encrypted passwords of different online and social media platforms used by me.
+Created a simple website using the React framework to store encrypted versions of login passwords of different online and social media platforms used by me.
 
-Skills: HTML, React, CSS
+Skills: Javascript, HTML, React, CSS, Python
